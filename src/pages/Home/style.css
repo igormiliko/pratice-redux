@@ -1,0 +1,13 @@
+#home {
+    background-image: url('../../assets/monstera-leafy-nature-background-wallpaper.jpg');
+    background-size: cover;
+/*    https://thumbs.gfycat.com/BraveOptimalBaleenwhale.webp*/
+}
+
+#home div {
+    font-family: 'Rock Salt', cursive;
+}
+
+#home button {
+    font-family: 'Unica One', cursive;
+}

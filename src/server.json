@@ -1,0 +1,105 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 10
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 3
+    },
+    {
+      "id": 4,
+      "amount": 3
+    },
+    {
+      "id": 5,
+      "amount": 3
+    },
+    {
+      "id": 6,
+      "amount": 3
+    },
+    {
+      "id": 7,
+      "amount": 3
+    },
+    {
+      "id": 8,
+      "amount": 3
+    },
+    {
+      "id": 9,
+      "amount": 3
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "marca": "Jeep",
+      "model": "YJ Jeep",
+      "ano": "1987/88",
+      "motor": "4.0 L AMC 242 I6",
+      "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2016/03/1988-Jeep-Wrangler-Sahara-YJ-01.jpg",
+      "price": "R$89.000,00"
+    },
+    {
+      "id": 2,
+      "marca": "Jeep",
+      "model": "Wrangler Unlimited",
+      "ano": "2007/08",
+      "motor": "3.8L V6",
+      "image": "https://i.pinimg.com/originals/e3/0b/27/e30b272faba2b015673c262b10022d04.jpg",
+      "price": "R$265.000,00"
+    },
+    {
+      "id": 3,
+      "marca": "Jeep",
+      "model": "Wrangler Rubicon",
+      "ano": "1987/1988",
+      "motor": "4.0 L AMC 242 I6",
+      "image": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2019/07/wrangler-rubicon.jpg?q=50&fit=crop&w=750&dpr=1.5",
+      "price": "R$132.000,00"
+    },
+    {
+      "id": 4,
+      "marca": "Land Rover",
+      "model": "Defender",
+      "ano": "2002",
+      "motor": "2.5 TD5",
+      "image": "https://ireland.apollo.olxcdn.com/v1/files/eyJmbiI6InB1dXdsYXcydHhsZjEtU1REVlRMUFQiLCJ3IjpbeyJmbiI6IjZtZ2p3bHA3a2dkYjItU1REVlRMUFQiLCJzIjoiMTYiLCJwIjoiMTAsLTEwIiwiYSI6IjAifV19.gwmMODvSFiSSwdR84w4gaAIOHBz09EdHMbmGaBKroQw/image;s=1080x720",
+      "price": "R$136.000,00"
+    },
+    {
+      "id": 5,
+      "marca": "Land Rover",
+      "model": "Discovery Sport",
+      "ano": "2016/17",
+      "motor": "3.0 L 6-cylinder",
+      "image": "https://images.hgmsites.net/hug/2016-land-rover-discovery-sport_100498255_h.jpg",
+      "price": "R$415.0000,00"
+    },
+    {
+      "id": 6,
+      "marca": "Suzuki",
+      "model": "Jimmy FOREST",
+      "ano": "2022",
+      "motor": "1.6 L 4-cylinder",
+      "image": "https://www.gazetasp.com.br/_midias/jpg/2021/03/11/suzuki_jimny_sport_forest_4x4_2__divulgacao-732068.jpg",
+      "price": "R$152.000,00"
+    },
+    {
+      "id": 7,
+      "marca": "Suzuki",
+      "model": "Jimmy SPORT",
+      "ano": "2022",
+      "motor": "1.5 L 4-cylinder",
+      "image": "https://emc.acidadeon.com/dbimagens/suzuki_1024x576_05032021120404.jpg",
+      "price": "R$123.000,00"
+    }
+  ]
+}
